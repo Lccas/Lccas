@@ -5,8 +5,6 @@ README.md, banner.svg e leonardo.jpg para a raiz.
 
 <img src="banner.svg" alt="Leonardo Carvalho, desenvolvedor de software pleno, Campinas." width="100%">
 
-<img src="leonardo.jpg" width="132" align="right" alt="Retrato de Leonardo Carvalho.">
-
 Desenvolvo sistemas web e aplicativos desde 2019, com cinco anos na Codee.Tech. Cuido da API, do banco e da interface em Node.js, TypeScript e React, e sigo no sistema depois que ele entra em produção.
 
 **Base** · Node.js, TypeScript, React  
