@@ -5,8 +5,6 @@ commit README.md, banner.svg, and leonardo.jpg at the root.
 
 <img src="banner.svg" alt="Leonardo Carvalho, software developer in Campinas." width="100%">
 
-<img src="leonardo.jpg" width="132" align="right" alt="Portrait of Leonardo Carvalho.">
-
 I have been building web systems and applications since 2019, with five years at Codee.Tech. I look after the API, the database, and the interface in Node.js, TypeScript, and React, and I stay with the system after it goes into production.
 
 **Core** · Node.js, TypeScript, React  
