@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 228" role="img" aria-labelledby="title desc">
   <title id="title">Leonardo Carvalho</title>
-  <desc id="desc">Desenvolvedor de software pleno em Campinas.</desc>
+  <desc id="desc">Software developer in Campinas.</desc>
   <rect width="960" height="228" fill="#070b10"/>
   <rect width="960" height="3" fill="#e23b48"/>
   <rect y="227" width="960" height="1" fill="#d7dde4" opacity="0.16"/>
   <circle cx="36" cy="40" r="4.5" fill="#3dcf8e"/>
   <text x="50" y="45" fill="#8d97a3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="2.4">CAMPINAS</text>
-  <text x="600" y="45" fill="#e4c04a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.2">01 ATUA&#199;&#195;O</text>
-  <text x="760" y="45" fill="#e4c04a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="1.2">02 PROJETOS</text>
-  <text x="36" y="92" fill="#8d97a3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="3.2">DESENVOLVEDOR PLENO</text>
+  <text x="36" y="92" fill="#8d97a3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="3.2">SOFTWARE DEVELOPER</text>
   <text x="32" y="158" fill="#d7dde4" font-family="Arial Narrow, Impact, sans-serif" font-size="76" font-weight="700">LEONARDO</text>
   <text x="32" y="210" fill="#4aa3ff" font-family="Arial Narrow, Impact, sans-serif" font-size="76" font-weight="700">CARVALHO</text>
 </svg>

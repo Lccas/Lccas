@@ -1,64 +1,66 @@
 <!--
-Perfil do GitHub. Crie o repositório público lccas/lccas e envie
-README.md, banner.svg e leonardo.jpg para a raiz.
+GitHub profile. Create the public repository lccas/lccas and
+commit README.md, banner.svg, and leonardo.jpg at the root.
 -->
 
-<img src="banner.svg" alt="Leonardo Carvalho, desenvolvedor de software pleno, Campinas." width="100%">
+<img src="banner.svg" alt="Leonardo Carvalho, software developer in Campinas." width="100%">
 
-Desenvolvo sistemas web e aplicativos desde 2019, com cinco anos na Codee.Tech. Cuido da API, do banco e da interface em Node.js, TypeScript e React, e sigo no sistema depois que ele entra em produção.
+<img src="leonardo.jpg" width="132" align="right" alt="Portrait of Leonardo Carvalho.">
 
-**Base** · Node.js, TypeScript, React  
-**Dados** · PostgreSQL, Prisma, Docker  
-**IA** · Chatbots, LLMs, machine learning, RAG e MCPs  
-**Idioma** · Português, Inglês C1
+I have been building web systems and applications since 2019, with five years at Codee.Tech. I look after the API, the database, and the interface in Node.js, TypeScript, and React, and I stay with the system after it goes into production.
 
-## 01 Atuação
+**Core** · Node.js, TypeScript, React  
+**Data** · PostgreSQL, Prisma, Docker  
+**AI** · Chatbots, LLMs, machine learning, RAG, and MCPs  
+**Language** · Portuguese, English C1
 
-**2021 — agora · Codee.Tech, Campinas**  
-Sistemas em produção, do desenho à manutenção. Desde outubro de 2021 desenvolvo e mantenho sistemas para vários clientes, entre eles um produto de oftalmologia. Respondo pela API em REST e GraphQL, pela interface em React, pelo PostgreSQL com Prisma e pelo ambiente em Docker.
+## 01 Work
 
-Também desenvolvo chatbots com LLM. A mensagem entra, o fluxo consulta o sistema do cliente e devolve a resposta. Quando precisa de uma pessoa, a conversa segue para o atendente. Esse atendimento também tem aplicativo.
+**2021 — now · Codee.Tech, Campinas**  
+Systems in production, from design through maintenance. Since October 2021 I have built and maintained systems for several clients, including an ophthalmology product. I am responsible for the REST and GraphQL API, the React interface, PostgreSQL with Prisma, and the Docker environment.
 
-**2021 · 5 meses · GPR Sistemas, Campinas**  
-Backend em Python, com Flask e PostgreSQL, e autenticação com JWT. No React, trabalhei em componentes, estado e rotas junto com o time.
+I also build chatbots with LLMs. A message comes in, the flow checks the client's system, and it sends the reply back. When a person is needed, the conversation goes to an attendant. That support also has an app.
+
+**2021 · 5 months · GPR Sistemas, Campinas**  
+I built the backend in Python, with Flask and PostgreSQL, and authentication with JWT. In React, I worked on components, state, and routes with the team.
 
 **2019 — 2021 · Casbrasil Conexão Farma, Campinas**  
-Comecei como estagiário em Django, no fim de 2018. De 2019 a 2021 desenvolvi um e-commerce e um sistema de parcerias, e cuidei da manutenção em produção, com Git, Docker e Scrum.
+I started as a Django intern at the end of 2018. From 2019 to 2021 I built an e-commerce site and a partnerships system, and I handled production maintenance, with Git, Docker, and Scrum.
 
-## 02 Projetos
+## 02 Projects
 
-**ZooNo** · detecção de zoonoses, aplicativo e mapa  
-No aplicativo em Expo, a pessoa fotografa o animal ou o inseto. O GPT-4o identifica a espécie, classifica o risco e orienta o manejo. O registro segue com a localização e entra no mapa do dashboard em tempo real.  
+**ZooNo** · zoonosis detection, app and map  
+In the Expo app, someone photographs the animal or the insect. GPT-4o identifies the species, rates the risk, and suggests how to handle it. The record goes out with the location and shows up on the dashboard map in real time.  
 Expo · Node.js · Prisma · PostgreSQL · GPT-4o
 
-**Quíron Kimonos** · Quíron Sport Wear, pedidos fora da planilha  
-A confecção controlava pedidos e usuários no Excel. Construí a aplicação web que assumiu esse fluxo e está em produção: NestJS, Prisma, PostgreSQL e Next.js, com autenticação e testes unitários.
+**Quíron Kimonos** · Quíron Sport Wear, orders off the spreadsheet  
+The workshop tracked orders and users in Excel. I built the web application that took over that flow and is in production: NestJS, Prisma, PostgreSQL, and Next.js, with authentication and unit tests.
 
-## 03 Prática
+## 03 Practice
 
-Linguagens · TypeScript, JavaScript, Node.js, Python  
+Languages · TypeScript, JavaScript, Node.js, Python  
 Interfaces · React, Next.js, Expo  
-Serviços · NestJS, Django, Flask, GraphQL, Hasura  
-Dados · Prisma, PostgreSQL, MySQL  
-Ambiente · Git, Docker, Linux, testes unitários  
-IA · Chatbots, LLMs, machine learning, RAG e MCPs
+Services · NestJS, Django, Flask, GraphQL, Hasura  
+Data · Prisma, PostgreSQL, MySQL  
+Environment · Git, Docker, Linux, unit tests  
+AI · Chatbots, LLMs, machine learning, RAG, and MCPs
 
-## 04 Formação
+## 04 Education
 
-**2024 — 2026** · Análise e Desenvolvimento de Sistemas, tecnólogo pela Universidade Paulista. Concluído.  
-**2016 — 2018** · Sistemas de Computação, técnico no Colégio Politécnico Bento Quirino.
+**2024 — 2026** · Analysis and Systems Development, technologist degree from Universidade Paulista. Completed.  
+**2016 — 2018** · Computer Systems, technical course at Colégio Politécnico Bento Quirino.
 
-## 05 Cursos
+## 05 Courses
 
 08/2022 · React: Function Components, Alura  
-07/2022 · REST com Node.js, Express e MySQL, Alura  
-09/2021 · Docker: containers na prática, Alura  
-08/2021 · JavaScript para a web, Alura  
-03/2021 · React: como a biblioteca funciona, Alura  
-02/2021 · Python 3: introdução e avanço na linguagem, Alura  
-03/2020 · HTML5 e CSS3, Udemy  
+07/2022 · REST with Node.js, Express, and MySQL, Alura  
+09/2021 · Docker: containers in practice, Alura  
+08/2021 · JavaScript for the web, Alura  
+03/2021 · React: how the library works, Alura  
+02/2021 · Python 3: introduction and further into the language, Alura  
+03/2020 · HTML5 and CSS3, Udemy  
 11/2018 · Python 3, Udemy
 
-## 06 Contato
+## 06 Contact
 
 [leonardobcarv@outlook.com](mailto:leonardobcarv@outlook.com) · [github.com/lccas](https://github.com/lccas) · [LinkedIn](https://linkedin.com/in/leonardocarvalho133)
